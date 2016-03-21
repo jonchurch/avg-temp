@@ -10,5 +10,7 @@ The project can easily be expanded to include a number of simple features, all t
 
 I am starting with the basic elements of the javascript, accessing the JSON data. I started by pulling it from a static file, just to play with the data in an object. I am now pulling the data from a basic api call that draws a border box around the united states.
 
+I am now building the ui, and testing my github ssh key:smile:.
+
 ## avg-temp
 Gives the current average temperature of the United States according to temperature data from api.openweathermap.org
