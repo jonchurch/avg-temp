@@ -1,8 +1,12 @@
 * {
 	font-family: 'Roboto';
 }
+li {
+	display: inline;
+}
 
-#temp {
-	font-family: 'Roboto', sans-serif;
+li {
 	font-size: 64px;
+	padding: 5px;
+
 }
