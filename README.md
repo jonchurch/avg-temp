@@ -1,4 +1,4 @@
-"What is the average temperature, right now?" I said aloud. And that's how we got here.
+"What is the *average* temperature, right now?" I said aloud. And that's how we got here.
 #Purpose
 This is an exercise in my process of learning HTML/CSS/Javascript.
 This repo serves as a way for me to think out loud in terms of code, features, bugs, and development. I will be updating it as I iterate through figuring out how to solve this simple question, and how to think about the question and aproach.
