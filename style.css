@@ -1,11 +1,15 @@
 * {
 	font-family: 'Roboto';
 }
-li {
-	display: inline;
+body {
+	background-color: #3498db;
+}
+.display {
+	
 }
 
 li {
+	display: inline;
 	font-size: 64px;
 	padding: 5px;
 
